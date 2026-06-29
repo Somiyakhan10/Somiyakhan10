@@ -10,11 +10,11 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR LINKEDIN">
+<a href="https://www.linkedin.com/in/somiya-k-299808201/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR GITHUB">
+<a href="https://github.com/Somiyakhan10">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -95,13 +95,13 @@ Biomedical Engineer passionate about applying **Artificial Intelligence**, **Med
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=somiyakhan10&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Somiyakhan10&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=somiyakhan10&theme=github-dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Somiyakhan10&theme=github-dark&hide_border=true"/>
 
 <br>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somiyakhan10&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somiyakhan10&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
