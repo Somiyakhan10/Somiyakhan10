@@ -78,37 +78,30 @@ Biomedical Engineer passionate about applying **Artificial Intelligence**, **Med
 
 ---
 
+## 🏆 Hackathons & Competitions
 
-
-# Hackathons & Achievements
-
-🏆 Harvard Puzzle Day Winner
-
-🏆 Frostbyte Hackathon Winner
-
-🏆 UCLA CodeSprint — Top 14%
-
-🏆 Harvard Aspire Leaders — Top 17%
-
-🏆 MIT Informatics Tournament
-
-🏆 UC Berkeley CALICO
-
-🏆 5+ International Hackathons
-
----
+| Competition | Achievement |
+|-------------|-------------|
+| 🏆 **Harvard Puzzle Day 2026** | **Winner** – Led a team of **3** and solved **10/10 puzzles** |
+| 💻 **UCLA CodeSprint LA 2026** | **Top 14%** among participants |
+| 🧠 **MIT Informatics Coding Tournament 2026** | **Participant** |
+| 🎯 **UC Berkeley CALICO Coding Competition 2026** | **Participant** |
+| ❄️ **Frostbyte Hackathon** | **Winner** – Developed an **AI-Powered Cardiovascular Risk Prediction System** |
+| 🧬 **iGEM BioHackathon 2026** | Led a **team of 4** to develop a **CRISPR-AI framework** for Antimicrobial Resistance detection |
+| 🤖 **HEC GenAI Hackathon** | Developed an **Automatic Seizure Detection System** using Machine Learning |
+| 🌍 **International Hackathons** | Competed in **5+ international hackathons** across AI, healthcare, and computational biology |
 
 # GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=somiyakhan10&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=github-dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=somiyakhan10&theme=github-dark&hide_border=true"/>
 
 <br>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somiyakhan10&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
