@@ -26,7 +26,7 @@
 
 ---
 
-# 👩‍🔬 About Me
+# ◈ About Me
 
 Biomedical Engineer passionate about applying **Artificial Intelligence**, **Medical Imaging**, **Wearable Technology**, and **Machine Learning** to solve real-world healthcare challenges.
 
@@ -34,7 +34,7 @@ Currently working as a **Research Assistant at VitalProbe (USA)** developing wea
 
 ---
 
-# 💻 Technical Skills
+# ◈ Technical Skills
 
 ### Programming
 
@@ -66,7 +66,7 @@ Currently working as a **Research Assistant at VitalProbe (USA)** developing wea
 
 ---
 
-# 🚀 Featured Projects
+# ◈ Featured Projects
 
 | Project | Description |
 |----------|-------------|
@@ -79,7 +79,7 @@ Currently working as a **Research Assistant at VitalProbe (USA)** developing wea
 
 ---
 
-# 🏆 Hackathons & Competitions
+# ◈ Hackathons & Competitions
 
 | Competition | Achievement |
 |-------------|-------------|
@@ -94,7 +94,7 @@ Currently working as a **Research Assistant at VitalProbe (USA)** developing wea
 
 ---
 
-# 📊 GitHub Analytics
+# ◈ GitHub Analytics
 
 <div align="center">
 
