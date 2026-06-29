@@ -30,32 +30,6 @@
 
 Biomedical Engineer passionate about applying **Artificial Intelligence**, **Medical Imaging**, **Wearable Technology**, and **Machine Learning** to solve real-world healthcare problems.
 
-My work focuses on:
-
-- Medical Imaging AI
-- Explainable AI (XAI)
-- Biomedical Signal Processing
-- Wearable Health Monitoring
-- Fall Risk Prediction
-- Brain-Computer Applications
-- Computational Biology
-
-Currently working as a **Research Assistant at VitalProbe (USA)** developing wearable systems for gait analysis and fall-risk assessment.
-
----
-
-# Research Interests
-
-- Medical Imaging
-- Computer Vision for Healthcare
-- Machine Learning
-- Deep Learning
-- Explainable AI
-- Digital Health
-- Wearable Sensors
-- Biomedical Signal Processing
-- Computational Neuroscience
-- Computational Biology
 
 ---
 
@@ -83,21 +57,6 @@ Currently working as a **Research Assistant at VitalProbe (USA)** developing wea
 
 ---
 
-### Medical Imaging & Biomedical Engineering
-
-- TensorFlow
-- Keras
-- Grad-CAM
-- MATLAB
-- COMSOL
-- OpenSim
-- SHIMMER EMG
-- IMU Sensors
-- Pressure Sensors
-- Arduino
-
----
-
 ### Development Tools
 
 <p>
@@ -119,32 +78,7 @@ Currently working as a **Research Assistant at VitalProbe (USA)** developing wea
 
 ---
 
-# Research Experience
 
-### Research Assistant — VitalProbe (USA)
-
-- Wearable Smart Sock
-- IMU-based gait analysis
-- Fall Risk Prediction
-- Mobility Scoring Algorithms
-- Digital Health
-
----
-
-### Researcher — National Science Research Initiative
-
-Working on:
-
-**Physics-Informed Machine Learning for Remaining Useful Life Prediction**
-
----
-
-# Publications
-
-- Advances in Biomaterials for Artificial Organ Development *(Submitted)*
-- Benchmarking E-Textile vs Optical Wearables *(Submitted to JMIR)*
-
----
 
 # Hackathons & Achievements
 
