@@ -26,7 +26,7 @@
 
 Biomedical Engineer passionate about applying **Artificial Intelligence**, **Medical Imaging**, **Wearable Technology**, and **Machine Learning** to solve real-world healthcare challenges.
 
-Currently working as a **Research Assistant at VitalProbe (USA)** developing wearable systems for gait analysis and fall-risk assessment.
+
 
 ---
 
